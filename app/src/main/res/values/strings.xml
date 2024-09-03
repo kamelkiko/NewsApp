@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">News App</string>
+    <string name="open_article">Open article</string>
+    <string name="published_by">Published by %1$s</string>
+    <string name="icon_back">Icon back</string>
+    <string name="icon_share">Icon share</string>
+    <string name="try_again">Try again</string>
+    <string name="by">By %1$s</string>
+    <string name="article_image">Article image</string>
+</resources>
